@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAiQi9XV1PupJ8tA4vsXSdcQJbsJ7isBh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>548310787130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kkxcom.Melon</string>
+	<key>PROJECT_ID</key>
+	<string>melonmusic-fe4ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>melonmusic-fe4ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:548310787130:ios:9b3bf4dd01a01534988103</string>
+</dict>
+</plist>
